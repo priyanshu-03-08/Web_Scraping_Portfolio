@@ -20,10 +20,9 @@ Review my sample projects below to see my skills in action. Each project include
 
 | Project Title | Business Problem Solved | Key Skills Demonstrated | Status |
 | :--- | :--- | :--- | :--- |
-| Project 01: E-commerce Competitor Data](Project_01_E_commerce_Data/README.md)** | **Competitor Pricing Analysis:** Automated extraction of product prices and ratings for strategy adjustment. | Multi-point Extraction, Class Attribute Handling, Pandas Dataframe Generation. | 
-
-| Project 02: Lead Generation** | Building targeted B2B contact lists for sales and marketing outreach. | Header Spoofing, Data Cleaning, Handling pagination (future). | In Progress |
-| Project 03: Custom Project Name** | *[Future Slot]* | *[Future Skills]* | Planned |
+| **[Project 01: E-commerce Competitor Data](Project_01_E_commerce_Data/README.md)** | **Competitor Pricing Analysis:** Automated extraction of product prices and ratings for strategy adjustment. | Multi-point Extraction, **Class Attribute Handling**, Pandas Dataframe Generation. | ✅ **Completed** |
+| **Project 02: Lead Generation** | Building targeted B2B contact lists for sales and marketing outreach. | Header Spoofing, Data Cleaning, Handling pagination (future). | In Progress |
+| **Project 03: Custom Project Name** | *[Future Slot]* | *[Future Skills]* | Planned |
 
 ---
 
