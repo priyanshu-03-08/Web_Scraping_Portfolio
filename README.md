@@ -1,20 +1,20 @@
-Web Scraping Portfolio - High-Quality Data Extraction
+# 🚀 Web Scraping Portfolio - High-Quality Data Extraction
 
 ### Freelancer Profile: Priyanshu Dahiya
-I am a results-driven Python Developer specializing in transforming unstructured web data into clean, actionable business intelligence (CSV, Excel, JSON). With a background in IT,
-I deliver reliable, custom-built scraping solutions tailored to client needs.
-
-
-My Core Competencies
-
-* Data Reliability: Guaranteeing **99.9% data accuracy** and consistency.
-* Anti-Bot Handling: Implementing strategies (like custom headers) to ensure uninterrupted data flow.
-* Output Quality: Expertise in using **Pandas** to deliver data in a polished, client-ready format (CSV, Excel).
-* Tools: Expert in Python (`requests`, `BeautifulSoup`), `Pandas`, and basic automation principles.
+I am a results-driven Python Developer specializing in transforming unstructured web data into clean, actionable business intelligence (CSV, Excel, JSON). With a background in IT, I deliver reliable, custom-built scraping solutions tailored to client needs.
 
 ---
 
- 📂 Featured Client Projects
+### ✨ My Core Competencies
+
+* **Data Reliability:** Guaranteeing **99.9% data accuracy** and consistency.
+* **Anti-Bot Handling:** Implementing strategies (like custom headers) to ensure uninterrupted data flow.
+* **Output Quality:** Expertise in using **Pandas** to deliver data in a polished, client-ready format (CSV, Excel).
+* **Tools:** Expert in Python (`requests`, `BeautifulSoup`), `Pandas`, and basic automation principles.
+
+---
+
+### 📂 Featured Client Projects
 
 Review my sample projects below to see my skills in action. Each project includes a detailed script, the raw output file, and a dedicated `README.md` explaining the business value.
 
@@ -26,10 +26,10 @@ Review my sample projects below to see my skills in action. Each project include
 
 ---
 
-Ready to Collaborate
+### 🤝 Ready to Collaborate
 
 Do you need to extract specific data but don't want to rely on costly, unreliable tools?
 
-I am available for hire!** Please feel free to reach out to discuss your specific data needs.
+**I am available for hire!** Please feel free to reach out to discuss your specific data needs.
 
-* Email : priyanshu2025dahiya@gmail.com
+* **Email:** Priyanshu2025dahiya@gmail.com
